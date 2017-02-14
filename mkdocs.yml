@@ -1,6 +1,8 @@
 site_name: Cultura e mitologia - 2017 - 1S
 pages:
 - Home: 'index.md'
+- Aulas :
+  - 'Cosmogonias' : 'aulas/cosmogonias.md'
 - Referências : 'referencias.md'
 theme: bootstrap
 extra_css:

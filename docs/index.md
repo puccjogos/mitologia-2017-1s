@@ -4,25 +4,25 @@ Este site é a apostila digital da disciplina *Cultura e mitologia*, ministrada 
 
 ## Cronograma
 
-| Data  | Aula                                                                                   | 
+| Data  | Aula | 
 |-------|----------------------------------------------------------------------------------------| 
-| 17/02 | Apresentação da disciplina / Introdução à pesquisa e leitura científica                | 
-| 24/02 | Cosmogonias / Entrega: Pesquisa de cosmogonias                                         | 
-| 03/03 | Debate sobre cosmogonias pesquisadas e seu papel em uma cultura                        | 
-| 10/03 | Prometeu e a vida ativa                                                                | 
-| 17/03 | Ogum, os deuses ferreiros e as materialidades dos mitos                                | 
-| 24/03 | Mitologia e história da arte / Entrega: Pesquisa de imagens                            | 
-| 31/03 | Mitologia e ficção especulativa                                                        | 
-| 07/04 | Prova individual 1                                                                     | 
-| 14/04 | Feriado / Entrega: mini-contos / Entrega: Mini-contos                                  | 
-| 28/04 | Debate sobre mini-contos / mitos / Entrega: Resenha sobre mini-contos                  | 
+| 17/02 | Apresentação da disciplina / Introdução à pesquisa e [leitura científica](materiais/guia-referencias.pdf) | 
+| 24/02 | [Cosmogonias](aulas/cosmogonias.md) / Entrega: Pesquisa de cosmogonias | 
+| 03/03 | Debate sobre cosmogonias pesquisadas e seu papel em uma cultura | 
+| 10/03 | Prometeu e a vida ativa | 
+| 17/03 | Ogum, os deuses ferreiros e as materialidades dos mitos | 
+| 24/03 | Mitologia e história da arte / Entrega: Pesquisa de imagens | 
+| 31/03 | Mitologia e ficção especulativa | 
+| 07/04 | Prova individual 1 | 
+| 14/04 | Feriado / Entrega: mini-contos / Entrega: Mini-contos | 
+| 28/04 | Debate sobre mini-contos / mitos / Entrega: Resenha sobre mini-contos | 
 | 05/05 | Apresentações sobre mitos em jogos pt. 1 / Entrega: Apresentações sobre mitos em jogos | 
-| 12/05 | Homo ludens e o papel do jogo na cultura                                               | 
-| 19/05 | Tricksters: Exú, subversão e o jogar                                                   | 
-| 26/05 | Huni kuin e Never alone: como fazer jogos sobre uma cultura viva?                      | 
+| 12/05 | Homo ludens e o papel do jogo na cultura | 
+| 19/05 | Tricksters: Exú, subversão e o jogar | 
+| 26/05 | Huni kuin e Never alone: como fazer jogos sobre uma cultura viva? | 
 | 02/06 | Apresentações sobre mitos em jogos pt. 2 / Entrega: Apresentações sobre mitos em jogos | 
-| 09/06 | Prova individual 2                                                                     | 
-| 23/06 | Fechamento da disciplina e prova substitutiva                                          | 
+| 09/06 | Prova individual 2 | 
+| 23/06 | Fechamento da disciplina e prova substitutiva | 
 
 ## Plano de ensino
 
