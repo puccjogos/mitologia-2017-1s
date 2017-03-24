@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Pesquisa de imagens - Cultura e mitologia - 2017-1S</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilo.css">
+  </head>
+  <body>
+    <h1>Pesquisa de imagens</h1>
+    <p class="intro">Resultado da atividade de pesquisa de imagens para Cultura e mitologia, 1o. semestre de 2017.</p>
+    <div class="pesquisa">
+    {{#info}}
+      <div class="imagem">
+        <h2 class="imagem-titulo">{{titulo}}</h2>
+        <img src="{{url}}" class="imagem-img" alt="" />
+        <p class="imagem-info"><em>{{info}}</em>, pesquisado por {{estudante}}.</p>
+      </div>
+    {{/info}}
+    </div>
+  </body>
+</html>
